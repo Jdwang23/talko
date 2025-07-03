@@ -180,7 +180,7 @@ const Features: React.FC = () => {
       <FeaturesContainer>
         <SectionTitle>Platform Features</SectionTitle>
         <SectionSubtitle>
-          Talkiy provides a comprehensive suite of features to help language education institutions achieve excellence in teaching
+          Talko provides a comprehensive suite of features to help language education institutions achieve excellence in teaching
         </SectionSubtitle>
 
         <FeaturesGrid>

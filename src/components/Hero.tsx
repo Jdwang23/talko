@@ -172,10 +172,10 @@ const Hero: React.FC = () => {
       <HeroContainer>
         <HeroContent>
           <HeroTitle>
-            Changing the Future of Education <span>Talkiy</span>
+            Changing the Future of Education <span>Talko</span>
           </HeroTitle>
           <HeroSubtitle>
-            Talkiy is an innovative educational technology platform designed specifically for language schools and colleges, helping you enhance teaching quality, streamline administrative processes, and boost student engagement.
+            Talko is an innovative educational technology platform designed specifically for language schools and colleges, helping you enhance teaching quality, streamline administrative processes, and boost student engagement.
           </HeroSubtitle>
           <ButtonWrapper>
             <HeroButton
@@ -190,7 +190,7 @@ const Hero: React.FC = () => {
           </ButtonWrapper>
         </HeroContent>
         <HeroImage>
-          <img src="/hero-image.svg" alt="Talkiy - EdTech Platform" />
+          <img src="/hero-image.svg" alt="Talko - EdTech Platform" />
         </HeroImage>
       </HeroContainer>
     </HeroSection>

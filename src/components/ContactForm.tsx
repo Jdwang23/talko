@@ -183,7 +183,7 @@ const ContactForm: React.FC = () => {
       <ContactContainer>
         <SectionTitle>Contact Us</SectionTitle>
         <SectionSubtitle>
-          Fill out the form below to learn how Talkiy can support your educational institution
+          Fill out the form below to learn how Talko can support your educational institution
         </SectionSubtitle>
 
         <FormWrapper>

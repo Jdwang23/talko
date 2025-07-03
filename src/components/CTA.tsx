@@ -84,7 +84,7 @@ const CTA: React.FC = () => {
       <CTAContainer>
         <CTATitle>Ready to Transform Your Educational Experience?</CTATitle>
         <CTADescription>
-          Join Talkiy to provide your language school or college with a modern educational technology platform. Our solutions will help you improve teaching efficiency, enhance student engagement, and streamline management processes.
+          Join Talko to provide your language school or college with a modern educational technology platform. Our solutions will help you improve teaching efficiency, enhance student engagement, and streamline management processes.
         </CTADescription>
         <CTAButton
           to="contact"

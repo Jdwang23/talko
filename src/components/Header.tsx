@@ -164,7 +164,7 @@ const Header: React.FC = () => {
     <>
       <HeaderContainer scrolled={scrolled}>
         <NavContainer>
-          <Logo>Talkiy</Logo>
+          <Logo>Talko</Logo>
           <NavLinks>
             <NavLink
               to="home"

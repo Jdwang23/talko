@@ -149,7 +149,7 @@ const FeatureText = styled.div`
 /**
  * About Component
  * 
- * This component displays information about Talkiy, including:
+ * This component displays information about Talko, including:
  * - Company introduction and mission statement
  * - Main visual illustration
  * - Key features and unique selling points with icons
@@ -161,21 +161,21 @@ const About: React.FC = () => {
   return (
     <AboutSection id="about">
       <AboutContainer>
-        <SectionTitle>About Talkiy</SectionTitle>
+        <SectionTitle>About Talko</SectionTitle>
         <SectionSubtitle>
           We are innovators in the field of educational technology, dedicated to providing the most advanced teaching solutions for language schools and colleges
         </SectionSubtitle>
 
         <AboutContent>
           <AboutImage>
-            <img src="/about-image.svg" alt="About Talkiy" />
+            <img src="/about-image.svg" alt="About Talko" />
           </AboutImage>
 
           <AboutText>
             <AboutDescription>
-              Talkiy is a comprehensive educational technology Platform-as-a-Service (PaaS) solution designed specifically for language education institutions. Our platform combines advanced technology with pedagogical principles to create a seamless learning experience for teachers and students.
+              Talko is a comprehensive educational technology Platform-as-a-Service (PaaS) solution designed specifically for language education institutions. Our platform combines advanced technology with pedagogical principles to create a seamless learning experience for teachers and students.
               <br /><br />
-              Our mission is to empower education through technology, helping language schools improve teaching efficiency, enhance student engagement, and simplify management processes. The core value of the Talkiy platform lies in providing educators with the tools they need to focus on what matters most—teaching.
+              Our mission is to empower education through technology, helping language schools improve teaching efficiency, enhance student engagement, and simplify management processes. The core value of the Talko platform lies in providing educators with the tools they need to focus on what matters most—teaching.
             </AboutDescription>
 
             <AboutFeatures>

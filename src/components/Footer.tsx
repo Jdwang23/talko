@@ -175,9 +175,9 @@ const Footer: React.FC = () => {
       <FooterContainer>
         <FooterContent>
           <FooterColumn>
-            <FooterLogo>Talkiy</FooterLogo>
+            <FooterLogo>Talko</FooterLogo>
             <FooterText>
-              Talkiy is an innovative educational technology platform designed for language schools and colleges, helping to enhance teaching quality, streamline management processes, and boost student engagement.
+              Talko is an innovative educational technology platform designed for language schools and colleges, helping to enhance teaching quality, streamline management processes, and boost student engagement.
             </FooterText>
           </FooterColumn>
 
@@ -250,7 +250,7 @@ const Footer: React.FC = () => {
 
         <FooterBottom>
           <FooterCopyright>
-            &copy; {currentYear} Talkiy. All rights reserved.
+            &copy; {currentYear} Talko. All rights reserved.
           </FooterCopyright>
           <ScrollToTopButton
             to="home"
