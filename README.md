@@ -28,3 +28,6 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 npm run build # or yarn build
 ```
 The optimized build will be in the `build` directory. Deploy this folder to your preferred static hosting service (e.g., Netlify, Vercel, GitHub Pages).
+
+## Link
+[https://talko1.vercel.app/](https://talko1.vercel.app/) 
