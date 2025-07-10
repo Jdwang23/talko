@@ -68,8 +68,8 @@ const AboutImage = styled.div`
   img {
     width: 100%;
     height: auto;
-    border-radius: 10px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    // border-radius: 10px;
+    // box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   }
 
   @media (max-width: 992px) {
@@ -168,7 +168,7 @@ const About: React.FC = () => {
 
         <AboutContent>
           <AboutImage>
-            <img src="/about-image.svg" alt="About Talko" />
+            <img src="/school.webp" alt="About Talko" />
           </AboutImage>
 
           <AboutText>
