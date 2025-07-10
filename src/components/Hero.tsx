@@ -10,7 +10,7 @@ const HeroSection = styled.section`
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   position: relative;
   overflow: visible;
-  padding-top: 70px;
+  padding-top: 100px;
   // padding-bottom: 50px;
 
   &::before {
@@ -27,7 +27,7 @@ const HeroSection = styled.section`
 
   @media (max-width: 768px) {
     padding-top: 100px;
-    padding-bottom: 70px;
+    padding-bottom: 20px;
     height: auto;
   }
 `;
