@@ -239,11 +239,11 @@ const Footer: React.FC = () => {
                   {FaEnvelope({ size: 16 })} Contact us through the form
                 </a>
               </FooterLink>
-              <FooterLink>
+              {/* <FooterLink>
                 <a href="#">
                   {FaMapMarkerAlt({ size: 16 })} Turkey
                 </a>
-              </FooterLink>
+              </FooterLink> */}
             </FooterLinks>
           </FooterColumn>
         </FooterContent>
