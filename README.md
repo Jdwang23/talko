@@ -1,4 +1,4 @@
-# Talko Official Website
+# Talko Official Website Showcase
 
 Talko is a modern, responsive official website for the Talko educational technology platform. This site is designed to showcase the platform's features, values, and provide a contact channel for language schools and colleges.
 

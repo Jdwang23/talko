@@ -4,14 +4,14 @@ import { Link } from 'react-scroll';
 
 // Main hero section container with background and spacing
 const HeroSection = styled.section`
-  min-height: 60vh;
+  min-height: 85vh;
   display: flex;
   align-items: center;
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   position: relative;
   overflow: visible;
   padding-top: 70px;
-  padding-bottom: 50px;
+  // padding-bottom: 50px;
 
   &::before {
     content: '';
@@ -190,7 +190,7 @@ const Hero: React.FC = () => {
           </ButtonWrapper>
         </HeroContent>
         <HeroImage>
-          <img src="/hero-image.svg" alt="Talko - EdTech Platform" />
+          <img src="/talk.webp" alt="Talko - EdTech Platform" />
         </HeroImage>
       </HeroContainer>
     </HeroSection>
